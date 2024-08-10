@@ -1,2 +1,0 @@
-echo"iam from hyd" 
-
